@@ -32,7 +32,7 @@ defmodule Emojix.Mixfile do
 
   defp deps do
     [
-      {:poison, "~> 3.0"},
+      {:poison, "~> 2.2"},
       {:ex_doc, ">= 0.0.0", only: :dev}
     ]
   end
